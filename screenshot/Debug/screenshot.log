@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\murat\downloads\screenshot\screenshot\main.cpp(47): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  screenshot.vcxproj -> C:\Users\murat\Downloads\screenshot\Debug\screenshot.exe
+  screenshot.vcxproj -> C:\Users\murat\Downloads\screenshot\Debug\screenshot.pdb (Full PDB)
